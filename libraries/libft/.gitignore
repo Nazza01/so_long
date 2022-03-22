@@ -1,0 +1,8 @@
+test.c
+mkfile.sh
+.DS_Store
+*.o
+files.txt
+a.out
+libft.a
+libft.so
